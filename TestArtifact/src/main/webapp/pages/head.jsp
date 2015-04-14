@@ -4,9 +4,8 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
-<title>Modified line</title>
+<title>MODIFIED LINE</title>
 </head>
 <body>
-	<!-- new line -->
 </body>
 </html>
