@@ -7,7 +7,6 @@
 <title>MODIFIED LINE</title>
 </head>
 <body>
-	<!-- Test Artifact Orig -->
-	<!-- Test Artifact -->
+	<!-- commit and remove this -->
 </body>
 </html>
